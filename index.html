@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Parola del Giorno - Casa Carlesso 👾</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
+        header { text-align: center; margin-bottom: 40px; }
+        h1 { color: #6a0dad; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; }
+        .card { background: white; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; cursor: pointer; transition: transform 0.2s; position: relative; }
+        .card:hover { transform: translateY(-5px); }
+        .card img { width: 100%; height: 200px; object-fit: cover; }
+        .card-content { padding: 15px; }
+        .word { font-size: 1.5rem; font-weight: bold; color: #6a0dad; margin: 0; }
+        .date { font-size: 0.9rem; color: #777; margin-bottom: 10px; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 1000; justify-content: center; align-items: center; }
+        .modal-content { background: white; padding: 30px; border-radius: 20px; max-width: 500px; width: 90%; text-align: center; }
+        .modal img { width: 100%; border-radius: 10px; margin-bottom: 20px; }
+        .close { position: absolute; top: 10px; right: 20px; font-size: 2rem; cursor: pointer; color: white; }
+        audio { margin-top: 20px; width: 100%; }
+        .description { line-height: 1.6; margin-top: 15px; text-align: left; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📜 La Parola del Giorno 👾</h1>
+        <p>L'archivio bislacco della nobile casata Carlesso</p>
+    </header>
+    <div class="grid" id="wordGrid"></div>
+
+    <div id="wordModal" class="modal">
+        <span class="close" id="closeModal">&times;</span>
+        <div class="modal-content">
+            <img id="modalImg" src="" alt="">
+            <h2 id="modalWord" class="word"></h2>
+            <p id="modalDate" class="date"></p>
+            <div id="modalDesc" class="description"></div>
+            <audio id="modalAudio" controls></audio>
+        </div>
+    </div>
+
+    <script>
+        const wordGrid = document.getElementById('wordGrid');
+        const modal = document.getElementById('wordModal');
+        const closeModal = document.getElementById('closeModal');
+
+        // Dati incorporati direttamente per semplicità iniziale su GitHub Pages
+        const data = [
+  {
+    "word": "Solipsismo",
+    "date": "2026-06-24",
+    "description": "L'idea che solo la propria mente esista davvero.",
+    "image_path": "assets/images/2026-06-24-solipsismo.png",
+    "audio_path": "assets/audio/2026-06-24-solipsismo.ogg"
+  },
+  {
+    "word": "Ghiribizzo",
+    "date": "2026-06-25",
+    "description": "Un capriccio improvviso, un'idea stravagante.",
+    "image_path": "assets/images/2026-06-25-ghiribizzo.png",
+    "audio_path": "assets/audio/2026-06-25-ghiribizzo.ogg"
+  },
+  {
+    "word": "Zuzzurellone",
+    "date": "2026-06-26",
+    "description": "Un adulto che si comporta come un bambino giocherellone.",
+    "image_path": "assets/images/2026-06-26-zuzzurellone.png",
+    "audio_path": "assets/audio/2026-06-26-zuzzurellone.ogg"
+  },
+  {
+    "word": "Cazzabubbola",
+    "date": "2026-06-28",
+    "description": "Una cosa piccola, buffa e di poco conto.",
+    "image_path": "assets/images/2026-06-28-cazzabubbola.png",
+    "audio_path": "assets/audio/2026-06-28-cazzabubbola.ogg"
+  },
+  {
+    "word": "Pindarico",
+    "date": "2026-06-29",
+    "description": "Un volo della mente nobile e veloce (con l'accento sulla a!).",
+    "image_path": "assets/images/2026-06-29-pindarico.png",
+    "audio_path": "assets/audio/2026-06-29-pindarico.ogg"
+  }
+];
+
+        data.reverse().forEach(item => {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.innerHTML = `
+                <img src="${item.image_path}" alt="${item.word}">
+                <div class="card-content">
+                    <p class="date">${item.date}</p>
+                    <h2 class="word">${item.word}</h2>
+                </div>
+            `;
+            card.onclick = () => showModal(item);
+            wordGrid.appendChild(card);
+        });
+
+        function showModal(item) {
+            document.getElementById('modalImg').src = item.image_path;
+            document.getElementById('modalWord').innerText = item.word;
+            document.getElementById('modalDate').innerText = item.date;
+            document.getElementById('modalDesc').innerText = item.description;
+            const audio = document.getElementById('modalAudio');
+            audio.src = item.audio_path;
+            modal.style.display = 'flex';
+            audio.play();
+        }
+
+        closeModal.onclick = () => {
+            modal.style.display = 'none';
+            document.getElementById('modalAudio').pause();
+        };
+
+        window.onclick = (event) => {
+            if (event.target == modal) {
+                modal.style.display = 'none';
+                document.getElementById('modalAudio').pause();
+            }
+        };
+    </script>
+</body>
+</html>

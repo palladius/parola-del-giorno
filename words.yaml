@@ -1,0 +1,25 @@
+- word: Solipsismo
+  date: '2026-06-24'
+  description: L'idea che solo la propria mente esista davvero.
+  image_path: assets/images/2026-06-24-solipsismo.png
+  audio_path: assets/audio/2026-06-24-solipsismo.ogg
+- word: Ghiribizzo
+  date: '2026-06-25'
+  description: Un capriccio improvviso, un'idea stravagante.
+  image_path: assets/images/2026-06-25-ghiribizzo.png
+  audio_path: assets/audio/2026-06-25-ghiribizzo.ogg
+- word: Zuzzurellone
+  date: '2026-06-26'
+  description: Un adulto che si comporta come un bambino giocherellone.
+  image_path: assets/images/2026-06-26-zuzzurellone.png
+  audio_path: assets/audio/2026-06-26-zuzzurellone.ogg
+- word: Cazzabubbola
+  date: '2026-06-28'
+  description: Una cosa piccola, buffa e di poco conto.
+  image_path: assets/images/2026-06-28-cazzabubbola.png
+  audio_path: assets/audio/2026-06-28-cazzabubbola.ogg
+- word: Pindarico
+  date: '2026-06-29'
+  description: Un volo della mente nobile e veloce (con l'accento sulla a!).
+  image_path: assets/images/2026-06-29-pindarico.png
+  audio_path: assets/audio/2026-06-29-pindarico.ogg

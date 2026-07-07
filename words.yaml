@@ -1,25 +1,66 @@
+---
 - word: Solipsismo
   date: '2026-06-24'
-  description: L'idea che solo la propria mente esista davvero.
+  description: 'Una gemma della lingua italiana: Solipsismo.'
   image_path: assets/images/2026-06-24-solipsismo.png
   audio_path: assets/audio/2026-06-24-solipsismo.ogg
 - word: Ghiribizzo
   date: '2026-06-25'
-  description: Un capriccio improvviso, un'idea stravagante.
+  description: 'Una gemma della lingua italiana: Ghiribizzo.'
   image_path: assets/images/2026-06-25-ghiribizzo.png
   audio_path: assets/audio/2026-06-25-ghiribizzo.ogg
 - word: Zuzzurellone
   date: '2026-06-26'
-  description: Un adulto che si comporta come un bambino giocherellone.
+  description: 'Una gemma della lingua italiana: Zuzzurellone.'
   image_path: assets/images/2026-06-26-zuzzurellone.png
   audio_path: assets/audio/2026-06-26-zuzzurellone.ogg
-- word: Cazzabubbola
+- word: LUCULLIANO
+  date: '2026-07-02'
+  description: 'Una gemma della lingua italiana: LUCULLIANO.'
+  image_path: assets/images/2026-07-02-luculliano.png
+  audio_path: assets/audio/2026-07-02-luculliano.ogg
+- word: CAZZABUBBOLA
   date: '2026-06-28'
-  description: Una cosa piccola, buffa e di poco conto.
+  description: 'Una gemma della lingua italiana: CAZZABUBBOLA.'
   image_path: assets/images/2026-06-28-cazzabubbola.png
   audio_path: assets/audio/2026-06-28-cazzabubbola.ogg
 - word: Pindarico
   date: '2026-06-29'
-  description: Un volo della mente nobile e veloce (con l'accento sulla a!).
+  description: 'Una gemma della lingua italiana: Pindarico.'
   image_path: assets/images/2026-06-29-pindarico.png
   audio_path: assets/audio/2026-06-29-pindarico.ogg
+- word: BISLACCO
+  date: '2026-06-30'
+  description: 'Una gemma della lingua italiana: BISLACCO.'
+  image_path: assets/images/2026-06-30-bislacco.png
+  audio_path:
+- word: LAPALISSIANO
+  date: '2026-07-01'
+  description: 'Una gemma della lingua italiana: LAPALISSIANO.'
+  image_path: assets/images/2026-07-01-lapalissiano.png
+  audio_path: assets/audio/2026-07-01-lapalissiano.ogg
+- word: SORNIONE
+  date: '2026-07-03'
+  description: 'Una gemma della lingua italiana: SORNIONE.'
+  image_path: assets/images/2026-07-03-sornione.png
+  audio_path:
+- word: PROSOPOPEA
+  date: '2026-07-04'
+  description: 'Una gemma della lingua italiana: PROSOPOPEA.'
+  image_path: assets/images/2026-07-04-prosopopea.png
+  audio_path:
+- word: Sghimbescio
+  date: '2026-07-05'
+  description: 'Una gemma della lingua italiana: Sghimbescio.'
+  image_path: assets/images/2026-07-05-sghimbescio.png
+  audio_path:
+- word: AMBARADAN
+  date: '2026-07-06'
+  description: 'Una gemma della lingua italiana: AMBARADAN.'
+  image_path: assets/images/2026-07-06-ambaradan.png
+  audio_path:
+- word: Sollucchero
+  date: '2026-07-07'
+  description: 'Una gemma della lingua italiana: Sollucchero.'
+  image_path: assets/images/2026-07-07-sollucchero.png
+  audio_path: assets/audio/2026-07-07-sollucchero.ogg

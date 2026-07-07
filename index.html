@@ -4,68 +4,77 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>La Parola del Giorno - Casa Carlesso 👾</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 20px; }
-        header { text-align: center; margin-bottom: 40px; }
-        h1 { color: #6a0dad; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; }
-        .card { background: white; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); overflow: hidden; cursor: pointer; transition: transform 0.2s; position: relative; }
-        .card:hover { transform: translateY(-5px); }
-        .card img { width: 100%; height: 200px; object-fit: cover; }
-        .card-content { padding: 15px; }
-        .word { font-size: 1.5rem; font-weight: bold; color: #6a0dad; margin: 0; }
-        .date { font-size: 0.9rem; color: #777; margin-bottom: 10px; }
-        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 1000; justify-content: center; align-items: center; }
-        .modal-content { background: white; padding: 30px; border-radius: 20px; max-width: 500px; width: 90%; text-align: center; }
-        .modal img { width: 100%; border-radius: 10px; margin-bottom: 20px; }
-        .close { position: absolute; top: 10px; right: 20px; font-size: 2rem; cursor: pointer; color: white; }
-        audio { margin-top: 20px; width: 100%; }
-        .description { line-height: 1.6; margin-top: 15px; text-align: left; }
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap');
+        body { font-family: 'Plus Jakarta Sans', sans-serif; }
+        .pux-purple { color: #6a0dad; }
+        .pux-bg { background-color: #6a0dad; }
     </style>
 </head>
-<body>
-    <header>
-        <h1>📜 La Parola del Giorno 👾</h1>
-        <p>L'archivio bislacco della nobile casata Carlesso</p>
-    </header>
-    <div class="grid" id="wordGrid"></div>
+<body class="bg-gray-50 min-h-screen pb-12">
 
-    <div id="wordModal" class="modal">
-        <span class="close" id="closeModal">&times;</span>
-        <div class="modal-content">
-            <img id="modalImg" src="" alt="">
-            <h2 id="modalWord" class="word"></h2>
-            <p id="modalDate" class="date"></p>
-            <div id="modalDesc" class="description"></div>
-            <audio id="modalAudio" controls></audio>
+    <header class="py-10 px-4 text-center bg-white shadow-sm mb-8 border-b-4 border-purple-600">
+        <h1 class="text-4xl md:text-5xl font-extrabold pux-purple mb-2">📜 La Parola del Giorno 👾</h1>
+        <p class="text-gray-600 text-lg italic">L'archivio bislacco della nobile casata Carlesso</p>
+    </header>
+
+    <main class="max-w-7xl mx-auto px-4">
+        <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+            <!-- Cards -->
+        </div>
+    </main>
+
+    <div id="modal" class="fixed inset-0 bg-black/90 z-50 hidden flex items-center justify-center p-4 backdrop-blur-md transition-all duration-300">
+        <div class="bg-white rounded-3xl overflow-hidden max-w-4xl w-full shadow-2xl relative border-4 border-purple-500">
+            <button onclick="closeModal()" class="absolute top-4 right-4 text-gray-400 hover:text-purple-600 text-3xl z-10 transition-colors">
+                <i class="fas fa-times-circle"></i>
+            </button>
+            
+            <div class="md:flex">
+                <div class="md:w-3/5">
+                    <img id="modal-img" src="" class="h-80 md:h-[500px] w-full object-cover" alt="">
+                </div>
+                <div class="md:w-2/5 p-10 flex flex-col justify-start">
+                    <div class="mb-8">
+                        <span id="modal-date" class="text-xs font-bold text-purple-400 uppercase tracking-widest block mb-2"></span>
+                        <h2 id="modal-word" class="text-4xl font-black pux-purple mb-4"></h2>
+                        <div class="h-1 w-20 pux-bg mb-6"></div>
+                        <p id="modal-desc" class="text-gray-700 text-lg leading-relaxed"></p>
+                    </div>
+                    
+                    <div id="audio-container" class="mt-auto bg-purple-50 p-6 rounded-2xl border border-purple-100">
+                        <p class="text-sm font-bold pux-purple mb-3 flex items-center">
+                            <i class="fas fa-music mr-2"></i> Ascolta Pux:
+                        </p>
+                        <audio id="modal-audio" controls class="w-full"></audio>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
     <script>
-        const wordGrid = document.getElementById('wordGrid');
-        const modal = document.getElementById('wordModal');
-        const closeModal = document.getElementById('closeModal');
-
-        // Dati incorporati direttamente per semplicità iniziale su GitHub Pages
         const data = [
   {
     "word": "Solipsismo",
     "date": "2026-06-24",
-    "description": "Una gemma della lingua italiana: Solipsismo.",
+    "description": "L'idea che solo la propria mente esista davvero.",
     "image_path": "assets/images/2026-06-24-solipsismo.png",
     "audio_path": "assets/audio/2026-06-24-solipsismo.ogg"
   },
   {
     "word": "Ghiribizzo",
     "date": "2026-06-25",
-    "description": "Una gemma della lingua italiana: Ghiribizzo.",
+    "description": "Un capriccio improvviso, un'idea stravagante.",
     "image_path": "assets/images/2026-06-25-ghiribizzo.png",
     "audio_path": "assets/audio/2026-06-25-ghiribizzo.ogg"
   },
   {
     "word": "Zuzzurellone",
     "date": "2026-06-26",
-    "description": "Una gemma della lingua italiana: Zuzzurellone.",
+    "description": "Un adulto che si comporta come un bambino giocherellone.",
     "image_path": "assets/images/2026-06-26-zuzzurellone.png",
     "audio_path": "assets/audio/2026-06-26-zuzzurellone.ogg"
   },
@@ -79,14 +88,14 @@
   {
     "word": "CAZZABUBBOLA",
     "date": "2026-06-28",
-    "description": "Una gemma della lingua italiana: CAZZABUBBOLA.",
+    "description": "Una cosa piccola, buffa e di poco conto.",
     "image_path": "assets/images/2026-06-28-cazzabubbola.png",
     "audio_path": "assets/audio/2026-06-28-cazzabubbola.ogg"
   },
   {
     "word": "Pindarico",
     "date": "2026-06-29",
-    "description": "Una gemma della lingua italiana: Pindarico.",
+    "description": "Un volo della mente nobile e veloce (con l'accento sulla a!).",
     "image_path": "assets/images/2026-06-29-pindarico.png",
     "audio_path": "assets/audio/2026-06-29-pindarico.ogg"
   },
@@ -141,42 +150,68 @@
   }
 ];
 
-        data.reverse().forEach(item => {
-            const card = document.createElement('div');
-            card.className = 'card';
-            card.innerHTML = `
-                <img src="${item.image_path}" alt="${item.word}">
-                <div class="card-content">
-                    <p class="date">${item.date}</p>
-                    <h2 class="word">${item.word}</h2>
-                </div>
-            `;
-            card.onclick = () => showModal(item);
-            wordGrid.appendChild(card);
-        });
+        const grid = document.getElementById('grid');
+        const modal = document.getElementById('modal');
+        const modalImg = document.getElementById('modal-img');
+        const modalWord = document.getElementById('modal-word');
+        const modalDate = document.getElementById('modal-date');
+        const modalDesc = document.getElementById('modal-desc');
+        const modalAudio = document.getElementById('modal-audio');
 
-        function showModal(item) {
-            document.getElementById('modalImg').src = item.image_path;
-            document.getElementById('modalWord').innerText = item.word;
-            document.getElementById('modalDate').innerText = item.date;
-            document.getElementById('modalDesc').innerText = item.description;
-            const audio = document.getElementById('modalAudio');
-            audio.src = item.audio_path;
-            modal.style.display = 'flex';
-            audio.play();
+        function renderGrid() {
+            const sorted = [...data].sort((a, b) => new Date(b.date) - new Date(a.date));
+            grid.innerHTML = sorted.map((item, index) => `
+                <div onclick='openModalByIndex(${index})' 
+                     class="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-2xl transition-all duration-500 cursor-pointer border border-gray-100 hover:-translate-y-2">
+                    <div class="relative h-64 overflow-hidden">
+                        <img src="${item.image_path}" class="w-full h-full object-cover grayscale-[20%] group-hover:grayscale-0 transition-all duration-700 group-hover:scale-110" alt="${item.word}">
+                        <div class="absolute inset-0 bg-gradient-to-t from-purple-900/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-6">
+                             <span class="text-white font-bold flex items-center"><i class="fas fa-plus-circle mr-2 text-xl"></i> Dettagli</span>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex justify-between items-center mb-2">
+                            <span class="text-[10px] font-black text-purple-300 uppercase tracking-[0.2em]">${item.date}</span>
+                        </div>
+                        <h3 class="text-2xl font-bold text-gray-800 group-hover:text-purple-700 transition-colors">${item.word}</h3>
+                    </div>
+                </div>
+            `).join('');
         }
 
-        closeModal.onclick = () => {
-            modal.style.display = 'none';
-            document.getElementById('modalAudio').pause();
+        const sortedData = [...data].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        function openModalByIndex(index) {
+            const item = sortedData[index];
+            modalImg.src = item.image_path;
+            modalWord.innerText = item.word;
+            modalDate.innerText = item.date;
+            modalDesc.innerText = item.description;
+            
+            const audioCont = document.getElementById('audio-container');
+            if (item.audio_path) {
+                modalAudio.src = item.audio_path;
+                audioCont.classList.remove('hidden');
+                modalAudio.play().catch(e => console.log("Autoplay blocked"));
+            } else {
+                audioCont.classList.add('hidden');
+            }
+
+            modal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            modal.classList.add('hidden');
+            modalAudio.pause();
+            document.body.style.overflow = 'auto';
+        }
+
+        modal.onclick = (e) => {
+            if (e.target === modal) closeModal();
         };
 
-        window.onclick = (event) => {
-            if (event.target == modal) {
-                modal.style.display = 'none';
-                document.getElementById('modalAudio').pause();
-            }
-        };
+        renderGrid();
     </script>
 </body>
 </html>

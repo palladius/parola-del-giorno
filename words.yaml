@@ -64,3 +64,25 @@
   description: 'Una gemma della lingua italiana: Sollucchero.'
   image_path: assets/images/2026-07-07-sollucchero.png
   audio_path: assets/audio/2026-07-07-sollucchero.ogg
+- word: Zibaldone
+  date: '2026-07-08'
+  description: 'Una gemma della lingua italiana: Zibaldone.'
+  image_path: assets/images/2026-07-08-zibaldone.png
+- word: SMARGIASSO
+  date: '2026-07-09'
+  description: 'Una gemma della lingua italiana: SMARGIASSO.'
+  image_path: assets/images/2026-07-09-smargiasso.png
+- word: SOLLEONE
+  date: '2026-07-10'
+  description: 'Una gemma della lingua italiana: SOLLEONE.'
+  image_path: assets/images/2026-07-10-solleone.png
+- word: PLEONASTICO
+  date: '2026-07-11'
+  description: 'Una gemma della lingua italiana: PLEONASTICO.'
+  image_path: assets/images/2026-07-11-pleonastico.png
+  audio_path: assets/audio/2026-07-11-pleonastico.ogg
+- word: Cincischiàre
+  date: '2026-07-13'
+  description: 'Una gemma della lingua italiana: Cincischiàre.'
+  image_path: assets/images/2026-07-13-cincischiare.png
+  audio_path: assets/audio/2026-07-13-cincischiare.ogg

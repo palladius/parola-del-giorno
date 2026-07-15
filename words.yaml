@@ -86,3 +86,8 @@
   description: 'Una gemma della lingua italiana: Cincischiàre.'
   image_path: assets/images/2026-07-13-cincischiare.png
   audio_path: assets/audio/2026-07-13-cincischiare.ogg
+- word: SOLERZIA
+  date: '2026-07-15'
+  description: 'La Solerzia: fare le cose con gioia, cura e rapidità, proprio come dei piccoli eroi della casa!'
+  image_path: assets/images/2026-07-15-solerzia.png
+  audio_path: assets/audio/2026-07-15-solerzia.ogg

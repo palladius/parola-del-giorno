@@ -114,3 +114,8 @@
   description: 'Una quisquìlia è una cosa piccolissima e senza importanza, come un briciolo di pane o un ronzio di zanzara.'
   image_path: assets/images/2026-07-19-quisquilia.png
   audio_path: assets/audio/2026-07-19-quisquilia.ogg
+- word: Cianciafrùscola
+  date: '2026-07-21'
+  description: 'Una cianciafrùscola è una piccola cosa di poco conto, un ninnolo o una sciocchezzuola che però ci fa sorridere! Come una conchiglia trovata sulla spiaggia o un sassolino colorato che Ale e Sebi tengono in tasca come fosse un tesoro.'
+  image_path: assets/images/2026-07-21-cianciafruscola.png
+  audio_path: assets/audio/2026-07-21-cianciafruscola.ogg

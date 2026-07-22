@@ -106,16 +106,36 @@
   audio_path:
 - word: BUSILLIS
   date: '2026-07-16'
-  description: 'Un nodo intricato nei pensieri, come cercare di capire chi ha mangiato l''ultima fetta di torta.'
+  description: 'Una gemma della lingua italiana: BUSILLIS.'
   image_path: assets/images/2026-07-16-busillis.png
   audio_path: assets/audio/2026-07-16-busillis.ogg
-- word: Quisquilia
+- word: SESQUIPEDALE
+  date: '2026-07-17'
+  description: 'Una gemma della lingua italiana: SESQUIPEDALE.'
+  image_path: assets/images/2026-07-17-sesquipedale.png
+  audio_path:
+- word: INFINOCCHIÀRE
+  date: '2026-07-18'
+  description: 'Una gemma della lingua italiana: INFINOCCHIÀRE.'
+  image_path: assets/images/2026-07-18-infinocchire.png
+  audio_path:
+- word: QUISQUILIA
   date: '2026-07-19'
-  description: 'Una quisquìlia è una cosa piccolissima e senza importanza, come un briciolo di pane o un ronzio di zanzara.'
+  description: 'Una gemma della lingua italiana: QUISQUILIA.'
   image_path: assets/images/2026-07-19-quisquilia.png
-  audio_path: assets/audio/2026-07-19-quisquilia.ogg
-- word: Cianciafrùscola
+  audio_path:
+- word: ALAMBICCÀRE
+  date: '2026-07-20'
+  description: 'Una gemma della lingua italiana: ALAMBICCÀRE.'
+  image_path: assets/images/2026-07-20-alambiccre.png
+  audio_path: assets/audio/2026-07-20-alambiccre.ogg
+- word: Cianciafruscola
   date: '2026-07-21'
-  description: 'Una cianciafrùscola è una piccola cosa di poco conto, un ninnolo o una sciocchezzuola che però ci fa sorridere! Come una conchiglia trovata sulla spiaggia o un sassolino colorato che Ale e Sebi tengono in tasca come fosse un tesoro.'
+  description: 'Una gemma della lingua italiana: Cianciafruscola.'
   image_path: assets/images/2026-07-21-cianciafruscola.png
-  audio_path: assets/audio/2026-07-21-cianciafruscola.ogg
+  audio_path:
+- word: Gagliòffo
+  date: '2026-07-22'
+  description: 'Una gemma della lingua italiana: Gagliòffo.'
+  image_path: assets/images/2026-07-22-gagliffo.png
+  audio_path:

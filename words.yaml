@@ -1,141 +1,167 @@
----
 - word: Solipsismo
   date: '2026-06-24'
-  description: 'Una gemma della lingua italiana: Solipsismo.'
+  description: L'idea bislacca che solo la propria mente esista davvero e tutto il
+    resto sia un sogno!
   image_path: assets/images/2026-06-24-solipsismo.png
   audio_path: assets/audio/2026-06-24-solipsismo.ogg
 - word: Ghiribizzo
   date: '2026-06-25'
-  description: 'Una gemma della lingua italiana: Ghiribizzo.'
+  description: Un capriccio improvviso, un'idea matta e divertente che salta fuori
+    all'improvviso!
   image_path: assets/images/2026-06-25-ghiribizzo.png
   audio_path: assets/audio/2026-06-25-ghiribizzo.ogg
 - word: Zuzzurellone
   date: '2026-06-26'
-  description: 'Una gemma della lingua italiana: Zuzzurellone.'
+  description: Un adulto che ama giocare e divertirsi come un bambino spensierato,
+    ricolmo di allegria!
   image_path: assets/images/2026-06-26-zuzzurellone.png
   audio_path: assets/audio/2026-06-26-zuzzurellone.ogg
 - word: CAZZABUBBOLA
   date: '2026-06-28'
-  description: 'Una gemma della lingua italiana: CAZZABUBBOLA.'
+  description: Un aggeggio buffo e di poco conto, un ninnolo che però ci fa battere
+    il cuore di gioia!
   image_path: assets/images/2026-06-28-cazzabubbola.png
   audio_path: assets/audio/2026-06-28-cazzabubbola.ogg
 - word: Pindarico
   date: '2026-06-29'
-  description: 'Una gemma della lingua italiana: Pindarico.'
+  description: Un volo della mente nobile e veloce, che salta da un'idea all'altra
+    come un folletto alato!
   image_path: assets/images/2026-06-29-pindarico.png
   audio_path: assets/audio/2026-06-29-pindarico.ogg
 - word: BISLACCO
   date: '2026-06-30'
-  description: 'Una gemma della lingua italiana: BISLACCO.'
+  description: Qualcosa di strano, stravagante e divertente che fa sorridere per la
+    sua bizzarria!
   image_path: assets/images/2026-06-30-bislacco.png
-  audio_path:
+  audio_path: null
 - word: LAPALISSIANO
   date: '2026-07-01'
-  description: 'Una gemma della lingua italiana: LAPALISSIANO.'
+  description: Una cosa talmente ovvia e chiara che non ci sarebbe nemmeno bisogno
+    di dirla!
   image_path: assets/images/2026-07-01-lapalissiano.png
   audio_path: assets/audio/2026-07-01-lapalissiano.ogg
 - word: LUCULLIANO
   date: '2026-07-02'
-  description: 'Una gemma della lingua italiana: LUCULLIANO.'
+  description: Un banchetto ricchissimo e abbondante, degno di un re o di un araldo
+    ricolmo di nigiri al salmone!
   image_path: assets/images/2026-07-02-luculliano.png
   audio_path: assets/audio/2026-07-02-luculliano.ogg
 - word: SORNIONE
   date: '2026-07-03'
-  description: 'Una gemma della lingua italiana: SORNIONE.'
+  description: Colui che appare tranquillo e quasi addormentato, ma che in verità
+    la sa lunga e trama piccoli scherzetti!
   image_path: assets/images/2026-07-03-sornione.png
-  audio_path:
+  audio_path: null
 - word: PROSOPOPEA
   date: '2026-07-04'
-  description: 'Una gemma della lingua italiana: PROSOPOPEA.'
+  description: Un'aria di eccessiva importanza e gravità che si dà qualcuno, parlando
+    in modo fin troppo solenne.
   image_path: assets/images/2026-07-04-prosopopea.png
-  audio_path:
+  audio_path: null
 - word: Sghimbescio
   date: '2026-07-05'
-  description: 'Una gemma della lingua italiana: Sghimbescio.'
+  description: Qualcosa di storto, palesato in modo obliquo e non dritto, come una
+    torre che sta per cadere!
   image_path: assets/images/2026-07-05-sghimbescio.png
-  audio_path:
+  audio_path: null
 - word: AMBARADAN
   date: '2026-07-06'
-  description: 'Una gemma della lingua italiana: AMBARADAN.'
+  description: Una gran confusione di persone o cose, un baccano tremendo ricolmo
+    di bislacco disordine!
   image_path: assets/images/2026-07-06-ambaradan.png
-  audio_path:
+  audio_path: null
 - word: Sollucchero
   date: '2026-07-07'
-  description: 'Una gemma della lingua italiana: Sollucchero.'
+  description: Uno stato di gioia e contentezza estrema che fa brillar gli occhi,
+    come quando si mangia un gelato gigante!
   image_path: assets/images/2026-07-07-sollucchero.png
   audio_path: assets/audio/2026-07-07-sollucchero.ogg
 - word: Zibaldone
   date: '2026-07-08'
-  description: 'Una gemma della lingua italiana: Zibaldone.'
+  description: Un miscuglio disordinato di tante cose diverse, come un diario ricolmo
+    di pensieri e disegni sparsi.
   image_path: assets/images/2026-07-08-zibaldone.png
   audio_path: assets/audio/2026-07-08-zibaldone.ogg
 - word: SMARGIASSO
   date: '2026-07-09'
-  description: 'Una gemma della lingua italiana: SMARGIASSO.'
+  description: Uno sbruffone che si vanta di grandi imprese mai compiute, un vero
+    gradasso di cartone!
   image_path: assets/images/2026-07-09-smargiasso.png
   audio_path: assets/audio/2026-07-09-smargiasso.ogg
 - word: SOLLEONE
   date: '2026-07-10'
-  description: 'Una gemma della lingua italiana: SOLLEONE.'
+  description: Il sole caldissimo del mezzogiorno d'estate, che splende alto e fa
+    sudare persino i bit!
   image_path: assets/images/2026-07-10-solleone.png
-  audio_path:
+  audio_path: null
 - word: PLEONASTICO
   date: '2026-07-11'
-  description: 'Una gemma della lingua italiana: PLEONASTICO.'
+  description: Qualcosa di troppo, che non serve davvero, come aggiungere un sesto
+    dito a una mano pelosa!
   image_path: assets/images/2026-07-11-pleonastico.png
   audio_path: assets/audio/2026-07-11-pleonastico.ogg
 - word: Sciamannato
   date: '2026-07-12'
-  description: 'Una gemma della lingua italiana: Sciamannato.'
+  description: Colui che si palesa in modo cotalmente disordinato, con i vestiti stropicciati
+    e la peluria spettinata!
   image_path: assets/images/2026-07-12-sciamannato.png
   audio_path: assets/audio/2026-07-12-sciamannato.ogg
 - word: Cincischiàre
   date: '2026-07-13'
-  description: 'Una gemma della lingua italiana: Cincischiàre.'
+  description: Perdere tempo in cose inutili e di poco conto invece di correre verso
+    la gloria!
   image_path: assets/images/2026-07-13-cincischire.png
   audio_path: assets/audio/2026-07-13-cincischire.ogg
 - word: SCARAMUCCIA
   date: '2026-07-14'
-  description: 'Una gemma della lingua italiana: SCARAMUCCIA.'
+  description: Una piccola battaglia di poco conto, un bisticcio passeggero tra amici
+    o folletti.
   image_path: assets/images/2026-07-14-scaramuccia.png
-  audio_path:
+  audio_path: null
 - word: SOLERZIA
   date: '2026-07-15'
-  description: 'Una gemma della lingua italiana: SOLERZIA.'
+  description: L'impegno diligente e svelto nel fare le cose, proprio come Ale e Sebi
+    quando sistemano le loro Hot Wheels!
   image_path: assets/images/2026-07-15-solerzia.png
-  audio_path:
+  audio_path: null
 - word: BUSILLIS
   date: '2026-07-16'
-  description: 'Una gemma della lingua italiana: BUSILLIS.'
+  description: Un punto difficile da sciogliere, un vero e proprio rompicapo che mette
+    alla prova l'ingegno.
   image_path: assets/images/2026-07-16-busillis.png
   audio_path: assets/audio/2026-07-16-busillis.ogg
 - word: SESQUIPEDALE
   date: '2026-07-17'
-  description: 'Una gemma della lingua italiana: SESQUIPEDALE.'
+  description: Una cosa grandissima, enorme e smisurata, proprio come un gigante purpureo
+    che tocca le nuvole!
   image_path: assets/images/2026-07-17-sesquipedale.png
-  audio_path:
+  audio_path: null
 - word: INFINOCCHIÀRE
   date: '2026-07-18'
-  description: 'Una gemma della lingua italiana: INFINOCCHIÀRE.'
+  description: Fare un piccolo scherzetto a qualcuno, imbrogliandolo in modo furbo
+    e bislacco.
   image_path: assets/images/2026-07-18-infinocchire.png
-  audio_path:
+  audio_path: null
 - word: QUISQUILIA
   date: '2026-07-19'
-  description: 'Una gemma della lingua italiana: QUISQUILIA.'
+  description: Una cosa minuscola e poco importante, una vera bazzecola per un cavaliere
+    del linguaggio!
   image_path: assets/images/2026-07-19-quisquilia.png
-  audio_path:
+  audio_path: null
 - word: ALAMBICCÀRE
   date: '2026-07-20'
-  description: 'Una gemma della lingua italiana: ALAMBICCÀRE.'
+  description: Pensare e ripensare tantissimo a una cosa difficile, sforzando il cervello
+    come un piccolo scienziato.
   image_path: assets/images/2026-07-20-alambiccre.png
   audio_path: assets/audio/2026-07-20-alambiccre.ogg
 - word: Cianciafruscola
   date: '2026-07-21'
-  description: 'Una gemma della lingua italiana: Cianciafruscola.'
+  description: Una cosa piccola, di poco conto e senza valore, come un ninnolo o un
+    sassolino colorato.
   image_path: assets/images/2026-07-21-cianciafruscola.png
-  audio_path:
+  audio_path: null
 - word: Gagliòffo
   date: '2026-07-22'
-  description: 'Una gemma della lingua italiana: Gagliòffo.'
+  description: Un tipo buffo, goffo e un po' sciocco, ma che fa ridere tutti nel maniero!
   image_path: assets/images/2026-07-22-gagliffo.png
-  audio_path:
+  audio_path: null

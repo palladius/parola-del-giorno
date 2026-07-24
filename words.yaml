@@ -170,3 +170,9 @@
   description: Gemma della lingua italiana.
   image_path: assets/images/2026-07-23-vagheggire.png
   audio_path: null
+- word: Bofonchiàre
+  date: '2026-07-24'
+  description: |
+    Un borbottio basso e buffo che si fa quando si è un po' imbronciati, come un piccolo mostriciattolo morbido che non vuole andare a nanna!
+  image_path: assets/images/2026-07-24-bofonchiare.png
+  audio_path: assets/audio/2026-07-24-bofonchiare.ogg

@@ -167,12 +167,19 @@
   audio_path: assets/audio/2026-07-22-gagliffo.ogg
 - word: Vagheggiàre
   date: '2026-07-23'
-  description: Gemma della lingua italiana.
+  description: Guardare con amore e desiderio qualcosa di molto bello, proprio come
+    Ale e Sebi guardano una pista Hot Wheels gigante!
   image_path: assets/images/2026-07-23-vagheggire.png
   audio_path: null
 - word: Bofonchiàre
   date: '2026-07-24'
-  description: |
-    Un borbottio basso e buffo che si fa quando si è un po' imbronciati, come un piccolo mostriciattolo morbido che non vuole andare a nanna!
-  image_path: assets/images/2026-07-24-bofonchiare.png
-  audio_path: assets/audio/2026-07-24-bofonchiare.ogg
+  description: Parlare a bassa voce e in modo poco chiaro, brontolando tra sé e sé
+    come un folletto un po' arrabbiato!
+  image_path: assets/images/2026-07-24-bofonchire.png
+  audio_path: assets/audio/2026-07-24-bofonchire.ogg
+- word: Panciòlle
+  date: '2026-07-25'
+  description: Stare in totale relax, riposandosi comodamente senza far nulla, magari
+    sognando nuove avventure con le Hot Wheels!
+  image_path: assets/images/2026-07-25-pancille.png
+  audio_path: assets/audio/2026-07-25-pancille.ogg

@@ -1,195 +1,229 @@
+---
 - word: Solipsismo
   date: '2026-06-24'
   description: L'idea bislacca che solo la propria mente esista davvero e tutto il
     resto sia un sogno!
   image_path: assets/images/2026-06-24-solipsismo.png
   audio_path: assets/audio/2026-06-24-solipsismo.ogg
+  word_clean: solipsismo
 - word: Ghiribizzo
   date: '2026-06-25'
   description: Un capriccio improvviso, un'idea matta e divertente che salta fuori
     all'improvviso!
   image_path: assets/images/2026-06-25-ghiribizzo.png
   audio_path: assets/audio/2026-06-25-ghiribizzo.ogg
+  word_clean: ghiribizzo
 - word: Zuzzurellone
   date: '2026-06-26'
   description: Un adulto che ama giocare e divertirsi come un bambino spensierato,
     ricolmo di allegria!
   image_path: assets/images/2026-06-26-zuzzurellone.png
   audio_path: assets/audio/2026-06-26-zuzzurellone.ogg
-- word: CAZZABUBBOLA
+  word_clean: zuzzurellone
+- word: Cazzabubbola
   date: '2026-06-28'
   description: Un aggeggio buffo e di poco conto, un ninnolo che però ci fa battere
     il cuore di gioia!
   image_path: assets/images/2026-06-28-cazzabubbola.png
   audio_path: assets/audio/2026-06-28-cazzabubbola.ogg
+  word_clean: cazzabubbola
 - word: Pindarico
   date: '2026-06-29'
   description: Un volo della mente nobile e veloce, che salta da un'idea all'altra
     come un folletto alato!
   image_path: assets/images/2026-06-29-pindarico.png
   audio_path: assets/audio/2026-06-29-pindarico.ogg
-- word: BISLACCO
+  word_clean: pindarico
+- word: Bislacco
   date: '2026-06-30'
   description: Qualcosa di strano, stravagante e divertente che fa sorridere per la
     sua bizzarria!
   image_path: assets/images/2026-06-30-bislacco.png
-  audio_path: null
-- word: LAPALISSIANO
+  audio_path: 
+  word_clean: bislacco
+- word: Lapalissiano
   date: '2026-07-01'
   description: Una cosa talmente ovvia e chiara che non ci sarebbe nemmeno bisogno
     di dirla!
   image_path: assets/images/2026-07-01-lapalissiano.png
   audio_path: assets/audio/2026-07-01-lapalissiano.ogg
-- word: LUCULLIANO
+  word_clean: lapalissiano
+- word: Luculliano
   date: '2026-07-02'
   description: Un banchetto ricchissimo e abbondante, degno di un re o di un araldo
     ricolmo di nigiri al salmone!
   image_path: assets/images/2026-07-02-luculliano.png
   audio_path: assets/audio/2026-07-02-luculliano.ogg
-- word: SORNIONE
+  word_clean: luculliano
+- word: Sornione
   date: '2026-07-03'
   description: Colui che appare tranquillo e quasi addormentato, ma che in verità
     la sa lunga e trama piccoli scherzetti!
   image_path: assets/images/2026-07-03-sornione.png
-  audio_path: null
-- word: PROSOPOPEA
+  audio_path: 
+  word_clean: sornione
+- word: Prosopopea
   date: '2026-07-04'
   description: Un'aria di eccessiva importanza e gravità che si dà qualcuno, parlando
     in modo fin troppo solenne.
   image_path: assets/images/2026-07-04-prosopopea.png
-  audio_path: null
+  audio_path: 
+  word_clean: prosopopea
 - word: Sghimbescio
   date: '2026-07-05'
   description: Qualcosa di storto, palesato in modo obliquo e non dritto, come una
     torre che sta per cadere!
   image_path: assets/images/2026-07-05-sghimbescio.png
-  audio_path: null
-- word: AMBARADAN
+  audio_path: 
+  word_clean: sghimbescio
+- word: Ambaradan
   date: '2026-07-06'
   description: Una gran confusione di persone o cose, un baccano tremendo ricolmo
     di bislacco disordine!
   image_path: assets/images/2026-07-06-ambaradan.png
-  audio_path: null
+  audio_path: 
+  word_clean: ambaradan
 - word: Sollucchero
   date: '2026-07-07'
   description: Uno stato di gioia e contentezza estrema che fa brillar gli occhi,
     come quando si mangia un gelato gigante!
   image_path: assets/images/2026-07-07-sollucchero.png
   audio_path: assets/audio/2026-07-07-sollucchero.ogg
+  word_clean: sollucchero
 - word: Zibaldone
   date: '2026-07-08'
   description: Un miscuglio disordinato di tante cose diverse, come un diario ricolmo
     di pensieri e disegni sparsi.
   image_path: assets/images/2026-07-08-zibaldone.png
   audio_path: assets/audio/2026-07-08-zibaldone.ogg
-- word: SMARGIASSO
+  word_clean: zibaldone
+- word: Smargiasso
   date: '2026-07-09'
   description: Uno sbruffone che si vanta di grandi imprese mai compiute, un vero
     gradasso di cartone!
   image_path: assets/images/2026-07-09-smargiasso.png
   audio_path: assets/audio/2026-07-09-smargiasso.ogg
-- word: SOLLEONE
+  word_clean: smargiasso
+- word: Solleone
   date: '2026-07-10'
   description: Il sole caldissimo del mezzogiorno d'estate, che splende alto e fa
     sudare persino i bit!
   image_path: assets/images/2026-07-10-solleone.png
-  audio_path: null
-- word: PLEONASTICO
+  audio_path: 
+  word_clean: solleone
+- word: Pleonastico
   date: '2026-07-11'
   description: Qualcosa di troppo, che non serve davvero, come aggiungere un sesto
     dito a una mano pelosa!
   image_path: assets/images/2026-07-11-pleonastico.png
   audio_path: assets/audio/2026-07-11-pleonastico.ogg
+  word_clean: pleonastico
 - word: Sciamannato
   date: '2026-07-12'
   description: Colui che si palesa in modo cotalmente disordinato, con i vestiti stropicciati
     e la peluria spettinata!
   image_path: assets/images/2026-07-12-sciamannato.png
   audio_path: assets/audio/2026-07-12-sciamannato.ogg
+  word_clean: sciamannato
 - word: Cincischiàre
   date: '2026-07-13'
   description: Perdere tempo in cose inutili e di poco conto invece di correre verso
     la gloria!
-  image_path: assets/images/2026-07-13-cincischire.png
-  audio_path: assets/audio/2026-07-13-cincischire.ogg
-- word: SCARAMUCCIA
+  image_path: assets/images/2026-07-13-cincischiare.png
+  audio_path: assets/audio/2026-07-13-cincischiare.ogg
+  word_clean: cincischiare
+- word: Scaramuccia
   date: '2026-07-14'
   description: Una piccola battaglia di poco conto, un bisticcio passeggero tra amici
     o folletti.
   image_path: assets/images/2026-07-14-scaramuccia.png
-  audio_path: null
-- word: SOLERZIA
+  audio_path: 
+  word_clean: scaramuccia
+- word: Solerzia
   date: '2026-07-15'
   description: L'impegno diligente e svelto nel fare le cose, proprio come Ale e Sebi
     quando sistemano le loro Hot Wheels!
   image_path: assets/images/2026-07-15-solerzia.png
-  audio_path: null
-- word: BUSILLIS
+  audio_path: assets/audio/2026-07-15-solerzia.ogg
+  word_clean: solerzia
+- word: Busillis
   date: '2026-07-16'
   description: Un punto difficile da sciogliere, un vero e proprio rompicapo che mette
     alla prova l'ingegno.
   image_path: assets/images/2026-07-16-busillis.png
   audio_path: assets/audio/2026-07-16-busillis.ogg
-- word: SESQUIPEDALE
+  word_clean: busillis
+- word: Sesquipedale
   date: '2026-07-17'
   description: Una cosa grandissima, enorme e smisurata, proprio come un gigante purpureo
     che tocca le nuvole!
   image_path: assets/images/2026-07-17-sesquipedale.png
-  audio_path: null
-- word: INFINOCCHIÀRE
+  audio_path: 
+  word_clean: sesquipedale
+- word: Infinocchiàre
   date: '2026-07-18'
   description: Fare un piccolo scherzetto a qualcuno, imbrogliandolo in modo furbo
     e bislacco.
-  image_path: assets/images/2026-07-18-infinocchire.png
-  audio_path: null
-- word: QUISQUILIA
+  image_path: assets/images/2026-07-18-infinocchiare.png
+  audio_path: 
+  word_clean: infinocchiare
+- word: Quisquilia
   date: '2026-07-19'
   description: Una cosa minuscola e poco importante, una vera bazzecola per un cavaliere
     del linguaggio!
   image_path: assets/images/2026-07-19-quisquilia.png
-  audio_path: null
-- word: ALAMBICCÀRE
+  audio_path: assets/audio/2026-07-19-quisquilia.ogg
+  word_clean: quisquilia
+- word: Alambiccàre
   date: '2026-07-20'
   description: Pensare e ripensare tantissimo a una cosa difficile, sforzando il cervello
     come un piccolo scienziato.
-  image_path: assets/images/2026-07-20-alambiccre.png
-  audio_path: assets/audio/2026-07-20-alambiccre.ogg
+  image_path: assets/images/2026-07-20-alambiccare.png
+  audio_path: assets/audio/2026-07-20-alambiccare.ogg
+  word_clean: alambiccare
 - word: Cianciafruscola
   date: '2026-07-21'
   description: Una cosa piccola, di poco conto e senza valore, come un ninnolo o un
     sassolino colorato.
   image_path: assets/images/2026-07-21-cianciafruscola.png
-  audio_path: null
+  audio_path: assets/audio/2026-07-21-cianciafruscola.ogg
+  word_clean: cianciafruscola
 - word: Gagliòffo
   date: '2026-07-22'
   description: Un tipo buffo, goffo e un po' sciocco, ma che fa ridere tutti nel maniero!
-  image_path: assets/images/2026-07-22-gagliffo.png
-  audio_path: assets/audio/2026-07-22-gagliffo.ogg
+  image_path: assets/images/2026-07-22-gaglioffo.png
+  audio_path: assets/audio/2026-07-22-gaglioffo.ogg
+  word_clean: gaglioffo
 - word: Vagheggiàre
   date: '2026-07-23'
   description: Guardare con amore e desiderio qualcosa di molto bello, proprio come
     Ale e Sebi guardano una pista Hot Wheels gigante!
-  image_path: assets/images/2026-07-23-vagheggire.png
-  audio_path: null
+  image_path: assets/images/2026-07-23-vagheggiare.png
+  audio_path: assets/audio/2026-07-23-vagheggiare.ogg
+  word_clean: vagheggiare
 - word: Bofonchiàre
   date: '2026-07-24'
   description: Parlare a bassa voce e in modo poco chiaro, brontolando tra sé e sé
     come un folletto un po' arrabbiato!
-  image_path: assets/images/2026-07-24-bofonchire.png
-  audio_path: assets/audio/2026-07-24-bofonchire.ogg
+  image_path: assets/images/2026-07-24-bofonchiare.png
+  audio_path: assets/audio/2026-07-24-bofonchiare.ogg
+  word_clean: bofonchiare
 - word: Panciòlle
   date: '2026-07-25'
   description: Stare in totale relax, riposandosi comodamente senza far nulla, magari
     sognando nuove avventure con le Hot Wheels!
-  image_path: assets/images/2026-07-25-pancille.png
-  audio_path: assets/audio/2026-07-25-pancille.ogg
+  image_path: assets/images/2026-07-25-panciolle.png
+  audio_path: assets/audio/2026-07-25-panciolle.ogg
+  word_clean: panciolle
 - word: Pinzillàcchera
   date: '2026-07-26'
   description: Gemma della lingua italiana.
-  image_path: assets/images/2026-07-26-pinzillcchera.png
-  audio_path: assets/audio/2026-07-26-pinzillcchera.ogg
+  image_path: assets/images/2026-07-26-pinzillacchera.png
+  audio_path: assets/audio/2026-07-26-pinzillacchera.ogg
+  word_clean: pinzillacchera
 - word: Frùgolo
   date: '2026-07-27'
   description: Gemma della lingua italiana.
-  image_path: assets/images/2026-07-27-frgolo.png
-  audio_path: assets/audio/2026-07-27-frgolo.ogg
+  image_path: assets/images/2026-07-27-frugolo.png
+  audio_path: assets/audio/2026-07-27-frugolo.ogg
+  word_clean: frugolo

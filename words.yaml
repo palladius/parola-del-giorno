@@ -39,7 +39,7 @@
   description: Qualcosa di strano, stravagante e divertente che fa sorridere per la
     sua bizzarria!
   image_path: assets/images/2026-06-30-bislacco.png
-  audio_path: 
+  audio_path:
   word_clean: bislacco
 - word: Lapalissiano
   date: '2026-07-01'
@@ -60,28 +60,28 @@
   description: Colui che appare tranquillo e quasi addormentato, ma che in verità
     la sa lunga e trama piccoli scherzetti!
   image_path: assets/images/2026-07-03-sornione.png
-  audio_path: 
+  audio_path:
   word_clean: sornione
 - word: Prosopopea
   date: '2026-07-04'
   description: Un'aria di eccessiva importanza e gravità che si dà qualcuno, parlando
     in modo fin troppo solenne.
   image_path: assets/images/2026-07-04-prosopopea.png
-  audio_path: 
+  audio_path:
   word_clean: prosopopea
 - word: Sghimbescio
   date: '2026-07-05'
   description: Qualcosa di storto, palesato in modo obliquo e non dritto, come una
     torre che sta per cadere!
   image_path: assets/images/2026-07-05-sghimbescio.png
-  audio_path: 
+  audio_path:
   word_clean: sghimbescio
 - word: Ambaradan
   date: '2026-07-06'
   description: Una gran confusione di persone o cose, un baccano tremendo ricolmo
     di bislacco disordine!
   image_path: assets/images/2026-07-06-ambaradan.png
-  audio_path: 
+  audio_path:
   word_clean: ambaradan
 - word: Sollucchero
   date: '2026-07-07'
@@ -109,7 +109,7 @@
   description: Il sole caldissimo del mezzogiorno d'estate, che splende alto e fa
     sudare persino i bit!
   image_path: assets/images/2026-07-10-solleone.png
-  audio_path: 
+  audio_path:
   word_clean: solleone
 - word: Pleonastico
   date: '2026-07-11'
@@ -137,7 +137,7 @@
   description: Una piccola battaglia di poco conto, un bisticcio passeggero tra amici
     o folletti.
   image_path: assets/images/2026-07-14-scaramuccia.png
-  audio_path: 
+  audio_path:
   word_clean: scaramuccia
 - word: Solerzia
   date: '2026-07-15'
@@ -158,14 +158,14 @@
   description: Una cosa grandissima, enorme e smisurata, proprio come un gigante purpureo
     che tocca le nuvole!
   image_path: assets/images/2026-07-17-sesquipedale.png
-  audio_path: 
+  audio_path:
   word_clean: sesquipedale
 - word: Infinocchiàre
   date: '2026-07-18'
   description: Fare un piccolo scherzetto a qualcuno, imbrogliandolo in modo furbo
     e bislacco.
   image_path: assets/images/2026-07-18-infinocchiare.png
-  audio_path: 
+  audio_path:
   word_clean: infinocchiare
 - word: Quisquilia
   date: '2026-07-19'
@@ -227,3 +227,17 @@
   image_path: assets/images/2026-07-27-frugolo.png
   audio_path: assets/audio/2026-07-27-frugolo.ogg
   word_clean: frugolo
+- word: Bazzècola
+  date: '2026-07-29'
+  description: Una cosa piccina piccina e di poco conto, un'inezia che scompare nel
+    palmo di un folletto!
+  image_path: assets/images/2026-07-29-bazzecola.png
+  audio_path: assets/audio/2026-07-29-bazzecola.ogg
+  word_clean: bazzecola
+- word: Ghìngheri
+  date: '2026-07-28'
+  description: Mettersi in ghingheri significa vestirsi in modo elegantissimo e pomposo,
+    pronti per una gran festa al castello!
+  word_clean: ghingheri
+  image_path: assets/images/2026-07-28-ghingheri.png
+  audio_path:

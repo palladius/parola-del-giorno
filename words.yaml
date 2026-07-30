@@ -241,3 +241,10 @@
   word_clean: ghingheri
   image_path: assets/images/2026-07-28-ghingheri.png
   audio_path:
+- word: Bellimbùsto
+  date: '2026-07-30'
+  description: Un giovanotto che si palesa in modo elegantissimo, pavoneggiandosi
+    ricolmo di vanità come se fosse il più bello del maniero!
+  image_path: assets/images/2026-07-30-bellimbusto.png
+  audio_path: assets/audio/2026-07-30-bellimbusto.ogg
+  word_clean: bellimbusto

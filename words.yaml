@@ -248,3 +248,10 @@
   image_path: assets/images/2026-07-30-bellimbusto.png
   audio_path: assets/audio/2026-07-30-bellimbusto.ogg
   word_clean: bellimbusto
+- word: Sarabànda
+  date: '2026-07-31'
+  description: Un gran baccano, una danza caotica o un movimento festoso di persone
+    o cose, proprio come quando i vostri balocchi prendono vita!
+  image_path: assets/images/2026-07-31-sarabanda.png
+  audio_path: assets/audio/2026-07-31-sarabanda.ogg
+  word_clean: sarabanda

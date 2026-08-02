@@ -144,7 +144,7 @@
   description: L'impegno diligente e svelto nel fare le cose, proprio come Ale e Sebi
     quando sistemano le loro Hot Wheels!
   image_path: assets/images/2026-07-15-solerzia.png
-  audio_path: assets/audio/2026-07-15-solerzia.ogg
+  audio_path:
   word_clean: solerzia
 - word: Busillis
   date: '2026-07-16'
@@ -172,7 +172,7 @@
   description: Una cosa minuscola e poco importante, una vera bazzecola per un cavaliere
     del linguaggio!
   image_path: assets/images/2026-07-19-quisquilia.png
-  audio_path: assets/audio/2026-07-19-quisquilia.ogg
+  audio_path:
   word_clean: quisquilia
 - word: Alambiccàre
   date: '2026-07-20'
@@ -186,7 +186,7 @@
   description: Una cosa piccola, di poco conto e senza valore, come un ninnolo o un
     sassolino colorato.
   image_path: assets/images/2026-07-21-cianciafruscola.png
-  audio_path: assets/audio/2026-07-21-cianciafruscola.ogg
+  audio_path:
   word_clean: cianciafruscola
 - word: Gagliòffo
   date: '2026-07-22'
@@ -199,7 +199,7 @@
   description: Guardare con amore e desiderio qualcosa di molto bello, proprio come
     Ale e Sebi guardano una pista Hot Wheels gigante!
   image_path: assets/images/2026-07-23-vagheggiare.png
-  audio_path: assets/audio/2026-07-23-vagheggiare.ogg
+  audio_path:
   word_clean: vagheggiare
 - word: Bofonchiàre
   date: '2026-07-24'
@@ -223,43 +223,44 @@
   word_clean: pinzillacchera
 - word: Frùgolo
   date: '2026-07-27'
-  description: Gemma della lingua italiana.
+  description: Un bambino vivace, irrequieto e sempre in movimento, proprio come un
+    piccolo folletto che non sta mai fermo!
   image_path: assets/images/2026-07-27-frugolo.png
   audio_path: assets/audio/2026-07-27-frugolo.ogg
   word_clean: frugolo
-- word: Bazzècola
-  date: '2026-07-29'
-  description: Una cosa piccina piccina e di poco conto, un'inezia che scompare nel
-    palmo di un folletto!
-  image_path: assets/images/2026-07-29-bazzecola.png
-  audio_path: assets/audio/2026-07-29-bazzecola.ogg
-  word_clean: bazzecola
 - word: Ghìngheri
   date: '2026-07-28'
-  description: Mettersi in ghingheri significa vestirsi in modo elegantissimo e pomposo,
-    pronti per una gran festa al castello!
-  word_clean: ghingheri
+  description: Gemma della lingua italiana.
   image_path: assets/images/2026-07-28-ghingheri.png
   audio_path:
+  word_clean: ghingheri
+- word: Bazzècola
+  date: '2026-07-29'
+  description: Gemma della lingua italiana.
+  image_path: assets/images/2026-07-29-bazzecola.png
+  audio_path:
+  word_clean: bazzecola
 - word: Bellimbùsto
   date: '2026-07-30'
-  description: Un giovanotto che si palesa in modo elegantissimo, pavoneggiandosi
-    ricolmo di vanità come se fosse il più bello del maniero!
+  description: Gemma della lingua italiana.
   image_path: assets/images/2026-07-30-bellimbusto.png
-  audio_path: assets/audio/2026-07-30-bellimbusto.ogg
+  audio_path:
   word_clean: bellimbusto
-- word: Sarabànda
+- word: Sarabanda
   date: '2026-07-31'
-  description: Un gran baccano, una danza caotica o un movimento festoso di persone
-    o cose, proprio come quando i vostri balocchi prendono vita!
+  description: Gemma della lingua italiana.
   image_path: assets/images/2026-07-31-sarabanda.png
   audio_path: assets/audio/2026-07-31-sarabanda.ogg
   word_clean: sarabanda
+- word: Fanfalùca
+  date: '2026-08-01'
+  description: Gemma della lingua italiana.
+  image_path: assets/images/2026-08-01-fanfaluca.png
+  audio_path: assets/audio/2026-08-01-fanfaluca.ogg
+  word_clean: fanfaluca
 - word: Solivàgo
   date: '2026-08-02'
-  description: Essere solivàghi significa amare il camminar soli, come un piccolo
-    folletto che esplora il bosco nel silenzio, cercando tesori nascosti tra le foglie.
-    È la gioia di stare in compagnia... di se stessi!
+  description: Gemma della lingua italiana.
   image_path: assets/images/2026-08-02-solivago.png
   audio_path: assets/audio/2026-08-02-solivago.ogg
   word_clean: solivago

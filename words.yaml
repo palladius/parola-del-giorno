@@ -264,3 +264,10 @@
   image_path: assets/images/2026-08-02-solivago.png
   audio_path: assets/audio/2026-08-02-solivago.ogg
   word_clean: solivago
+- word: Sollazzàre
+  date: '2026-08-03'
+  description: Sollazzàre significa divertirsi un mondo, giocare e fare scherzi allegri
+    per passare il tempo in lieta compagnia!
+  image_path: assets/images/2026-08-03-sollazzare.png
+  audio_path: assets/audio/2026-08-03-sollazzare.ogg
+  word_clean: sollazzare

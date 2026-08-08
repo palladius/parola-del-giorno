@@ -304,3 +304,11 @@
   image_path: assets/images/2026-08-07-barbagliore.png
   audio_path: assets/audio/2026-08-07-barbagliore.ogg
   word_clean: barbagliore
+- word: Balzàno
+  date: '2026-08-08'
+  description: Balzàno! È una parola buffa che significa qualcosa di strano, originale
+    e un po' pazzerello. Come un'idea che invece di camminare dritta, fa un balzo
+    improvviso da una parte all'altra! Un'idea balzana è divertente e cotalmente inaspettata.
+  image_path: assets/images/2026-08-08-balzano.png
+  audio_path: assets/audio/2026-08-08-balzano.ogg
+  word_clean: balzano

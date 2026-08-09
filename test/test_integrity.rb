@@ -53,6 +53,16 @@ class TestIntegrity < Minitest::Test
     end
   end
 
+  # 3. Accent test (Every word must contain exactly one written accent to specify pronunciation)
+  def test_words_have_exactly_one_accent
+    accented_chars = "àèìòùáéíóúÀÈÌÒÙÁÉÍÓÚ"
+    @words.each do |entry|
+      word = entry['word']
+      accent_count = word.chars.count { |c| accented_chars.include?(c) }
+      assert_equal 1, accent_count, "La parola '#{word}' deve contenere esattamente UN accento per indicare la corretta pronuncia."
+    end
+  end
+
   # 3. Duplicate checks
   def test_no_duplicates
     # Check duplicate words (normalized/accent-insensitive)

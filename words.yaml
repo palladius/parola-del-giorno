@@ -39,7 +39,7 @@
   description: Qualcosa di strano, stravagante e divertente che fa sorridere per la
     sua bizzarria!
   image_path: assets/images/2026-06-30-bislacco.png
-  audio_path: 
+  audio_path:
   word_clean: bislacco
 - word: Lapalissiàno
   date: '2026-07-01'
@@ -60,28 +60,28 @@
   description: Colui che appare tranquillo e quasi addormentato, ma che in verità
     la sa lunga e trama piccoli scherzetti!
   image_path: assets/images/2026-07-03-sornione.png
-  audio_path: 
+  audio_path:
   word_clean: sornione
 - word: Prosopopèa
   date: '2026-07-04'
   description: Un'aria di eccessiva importanza e gravità che si dà qualcuno, parlando
     in modo fin troppo solenne.
   image_path: assets/images/2026-07-04-prosopopea.png
-  audio_path: 
+  audio_path:
   word_clean: prosopopea
 - word: Sghimbèscio
   date: '2026-07-05'
   description: Qualcosa di storto, palesato in modo obliquo e non dritto, come una
     torre che sta per cadere!
   image_path: assets/images/2026-07-05-sghimbescio.png
-  audio_path: 
+  audio_path:
   word_clean: sghimbescio
 - word: Ambaradàn
   date: '2026-07-06'
   description: Una gran confusione di persone o cose, un baccano tremendo ricolmo
     di bislacco disordine!
   image_path: assets/images/2026-07-06-ambaradan.png
-  audio_path: 
+  audio_path:
   word_clean: ambaradan
 - word: Sollùcchero
   date: '2026-07-07'
@@ -109,7 +109,7 @@
   description: Il sole caldissimo del mezzogiorno d'estate, che splende alto e fa
     sudare persino i bit!
   image_path: assets/images/2026-07-10-solleone.png
-  audio_path: 
+  audio_path:
   word_clean: solleone
 - word: Pleonàstico
   date: '2026-07-11'
@@ -137,14 +137,14 @@
   description: Una piccola battaglia di poco conto, un bisticcio passeggero tra amici
     o folletti.
   image_path: assets/images/2026-07-14-scaramuccia.png
-  audio_path: 
+  audio_path:
   word_clean: scaramuccia
 - word: Solèrzia
   date: '2026-07-15'
   description: L'impegno diligente e svelto nel fare le cose, proprio come Ale e Sebi
     quando sistemano le loro Hot Wheels!
   image_path: assets/images/2026-07-15-solerzia.png
-  audio_path: 
+  audio_path:
   word_clean: solerzia
 - word: Busìllis
   date: '2026-07-16'
@@ -158,21 +158,21 @@
   description: Una cosa grandissima, enorme e smisurata, proprio come un gigante purpureo
     che tocca le nuvole!
   image_path: assets/images/2026-07-17-sesquipedale.png
-  audio_path: 
+  audio_path:
   word_clean: sesquipedale
 - word: Infinocchiàre
   date: '2026-07-18'
   description: Fare un piccolo scherzetto a qualcuno, imbrogliandolo in modo furbo
     e bislacco.
   image_path: assets/images/2026-07-18-infinocchiare.png
-  audio_path: 
+  audio_path:
   word_clean: infinocchiare
 - word: Quisquìlia
   date: '2026-07-19'
   description: Una cosa minuscola e poco importante, una vera bazzecola per un cavaliere
     del linguaggio!
   image_path: assets/images/2026-07-19-quisquilia.png
-  audio_path: 
+  audio_path:
   word_clean: quisquilia
 - word: Alambiccàre
   date: '2026-07-20'
@@ -186,7 +186,7 @@
   description: Una cosa piccola, di poco conto e senza valore, come un ninnolo o un
     sassolino colorato.
   image_path: assets/images/2026-07-21-cianciafruscola.png
-  audio_path: 
+  audio_path:
   word_clean: cianciafruscola
 - word: Gagliòffo
   date: '2026-07-22'
@@ -199,7 +199,7 @@
   description: Guardare con amore e desiderio qualcosa di molto bello, proprio come
     Ale e Sebi guardano una pista Hot Wheels gigante!
   image_path: assets/images/2026-07-23-vagheggiare.png
-  audio_path: 
+  audio_path:
   word_clean: vagheggiare
 - word: Bofonchiàre
   date: '2026-07-24'
@@ -232,19 +232,19 @@
   date: '2026-07-28'
   description: Gemma della lingua italiana.
   image_path: assets/images/2026-07-28-ghingheri.png
-  audio_path: 
+  audio_path:
   word_clean: ghingheri
 - word: Bazzècola
   date: '2026-07-29'
   description: Gemma della lingua italiana.
   image_path: assets/images/2026-07-29-bazzecola.png
-  audio_path: 
+  audio_path:
   word_clean: bazzecola
 - word: Bellimbùsto
   date: '2026-07-30'
   description: Gemma della lingua italiana.
   image_path: assets/images/2026-07-30-bellimbusto.png
-  audio_path: 
+  audio_path:
   word_clean: bellimbusto
 - word: Sarabànda
   date: '2026-07-31'
@@ -292,7 +292,7 @@
     solletico! È una risata così forte che sembra quasi di perdere le mascelle dalla
     felicità!
 
-'
+    '
   image_path: assets/images/2026-08-06-sganasciarsi.png
   audio_path: assets/audio/2026-08-06-sganasciarsi.ogg
   word_clean: sganasciarsi
@@ -321,7 +321,7 @@
     come un treno... ecco, quello è un banchetto Gargantùesco! Proprio come il cuore
     del vostro Pux per voi!
 
-'
+    '
   image_path: assets/images/2026-08-09-gargantuesco.png
   audio_path: assets/audio/2026-08-09-gargantuesco.ogg
   word_clean: gargantuesco
@@ -334,3 +334,13 @@
   image_path: assets/images/2026-08-10-squinternato.png
   audio_path: assets/audio/2026-08-10-squinternato.ogg
   word_clean: squinternato
+- word: Ammenìcolo
+  date: '2026-08-11'
+  description: 'Un oggetto piccolo, un po'' inutile ma tanto curioso, come un bottoncino
+    dorato che non chiude nulla o un pezzetto di legno magico che fa solo ''clic''.
+    È una cosa che sta lì a far bellezza o a confondere le idee!
+
+    '
+  image_path: assets/images/2026-08-11-ammenicolo.png
+  audio_path: assets/audio/2026-08-11-ammenicolo.ogg
+  word_clean: ammenicolo

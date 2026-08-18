@@ -396,3 +396,11 @@
   image_path: assets/images/2026-08-17-svicuolare.png
   audio_path: assets/audio/2026-08-17-svicuolare.ogg
   word_clean: svicuolare
+- word: Pispigliàre
+  date: '2026-08-18'
+  description: Significa parlare a bassa voce, quasi in un soffio, come quando si
+    racconta un segreto magico o si ascolta il bosco che dorme. Pispigliàre è la musica
+    del silenzio!
+  image_path: assets/images/2026-08-18-pispigliare.png
+  audio_path: assets/audio/2026-08-18-pispigliare.ogg
+  word_clean: pispigliare

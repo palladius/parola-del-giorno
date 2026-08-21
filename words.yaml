@@ -426,3 +426,11 @@
   image_path: assets/images/2026-08-20-sbilenco.png
   audio_path: assets/audio/2026-08-20-sbilenco.ogg
   word_clean: sbilenco
+- word: Baldanzòso
+  date: '2026-08-21'
+  description: Essere baldanzosi significa sentirsi carichi di ardire e coraggio,
+    proprio come un cavaliere che marcia sicuro verso la vittoria o come voi quando
+    saltate nei mucchi di foglie con un sorriso gigante!
+  image_path: assets/images/2026-08-21-baldanzoso.png
+  audio_path: assets/audio/2026-08-21-baldanzoso.ogg
+  word_clean: baldanzoso

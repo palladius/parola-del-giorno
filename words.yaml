@@ -443,3 +443,11 @@
   image_path: assets/images/2026-08-22-zonzare.png
   audio_path: assets/audio/2026-08-22-zonzare.ogg
   word_clean: zonzare
+- word: Ghirigòro
+  date: '2026-08-23'
+  description: Un ghirigòro è un disegno tutto intrecciato e scarabocchiato, come
+    quando prendi un pennarello e fai tanti riccioli sulla carta senza staccare mai
+    la punta! È un pasticcio ordinato e divertente che fa ballare le dita sul foglio.
+  image_path: assets/images/2026-08-23-ghirigoro.png
+  audio_path: assets/audio/2026-08-23-ghirigoro.ogg
+  word_clean: ghirigoro

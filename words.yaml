@@ -451,3 +451,13 @@
   image_path: assets/images/2026-08-23-ghirigoro.png
   audio_path: assets/audio/2026-08-23-ghirigoro.ogg
   word_clean: ghirigoro
+- word: Grancipòrro
+  date: '2026-08-24'
+  description: 'Un grosso errore, una solenne sciocchezza! Immaginate di voler fare
+    una torta e metterci il sale invece dello zucchero: ecco, avreste preso un bel
+    grancipòrro!
+
+    '
+  image_path: assets/images/2026-08-24-granciporro.png
+  audio_path: assets/audio/2026-08-24-granciporro.ogg
+  word_clean: granciporro

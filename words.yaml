@@ -473,3 +473,10 @@
   image_path: assets/images/2026-08-26-sciaguattare.png
   audio_path: assets/audio/2026-08-26-sciaguattare.ogg
   word_clean: sciaguattare
+- word: Sgangheràto
+  date: '2026-08-27'
+  description: Qualcosa di rotto, tutto storto, che non sta più insieme bene, come
+    una porta che pende dalle cerniere!
+  image_path: assets/images/2026-08-27-sgangherato.png
+  audio_path: assets/audio/2026-08-27-sgangherato.ogg
+  word_clean: sgangherato

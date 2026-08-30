@@ -506,3 +506,13 @@
   word_clean: ruzzare
   image_path: assets/images/2026-08-30-ruzzare.png
   audio_path: assets/audio/2026-08-30-ruzzare.ogg
+- word: Ampollòso
+  date: '2026-08-31'
+  description: 'Cari Ale e Sebi, ''Ampollòso'' descrive qualcuno che parla in modo
+    troppo complicato e gonfio, proprio come un pallone pieno d''aria! È come se Pux
+    cercasse di spiegarvi come si allacciano le scarpe usando parole da Re!
+
+    '
+  image_path: assets/images/2026-08-31-ampolloso.png
+  audio_path: assets/audio/2026-08-31-ampolloso.ogg
+  word_clean: ampolloso

@@ -527,3 +527,12 @@
   image_path: assets/images/2026-09-01-gingillarsi.png
   audio_path: assets/audio/2026-09-01-gingillarsi.ogg
   word_clean: gingillarsi
+- word: Raccapezzàrsi
+  date: '2026-09-02'
+  description: |
+    Raccapezzàrsi significa riuscire a mettere in ordine i propri pensieri o trovare
+    il bandolo di una matassa ingarbugliata. È come quando finalmente capite come si
+    monta un castello di Lego o dove avete nascosto il vostro giocattolo preferito!
+  image_path: assets/images/2026-09-02-raccapezzarsi.png
+  audio_path: assets/audio/2026-09-02-raccapezzarsi.ogg
+  word_clean: raccapezzarsi

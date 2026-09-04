@@ -83,13 +83,13 @@
   image_path: assets/images/2026-07-06-ambaradan.png
   audio_path:
   word_clean: ambaradan
-- word: Sollùcchero
+- word: Sollùchhero
   date: '2026-07-07'
   description: Uno stato di gioia e contentezza estrema che fa brillar gli occhi,
     come quando si mangia un gelato gigante!
-  image_path: assets/images/2026-07-07-sollucchero.png
-  audio_path: assets/audio/2026-07-07-sollucchero.ogg
-  word_clean: sollucchero
+  image_path: assets/images/2026-07-07-solluchhero.png
+  audio_path:
+  word_clean: solluchhero
 - word: Zibaldòne
   date: '2026-07-08'
   description: Un miscuglio disordinato di tante cose diverse, come un diario ricolmo
@@ -354,9 +354,10 @@
   word_clean: sghignazzare
 - word: Scilinguàgnolo
   date: '2026-08-13'
-  description: "Significa letteralmente quel piccolo legamento sotto la lingua, ma
-    si usa soprattutto \nper dire che qualcuno parla tantissimo e senza sosta! Quando
-    avete lo scilinguàgnolo sciolto, \nle vostre parole volano via come farfalle!\n"
+  description: "Significa letteralmente quel piccolo legamento sotto la lingua, ma\n
+    \   si usa soprattutto \nforse per dire che qualcuno parla tantissimo e senza
+    sosta! Quando\n    avete lo scilinguàgnolo sciolto, \nle vostre parole volano
+    via come farfalle!\n"
   image_path: assets/images/2026-08-13-scilinguagnolo.png
   audio_path: assets/audio/2026-08-13-scilinguagnolo.ogg
   word_clean: scilinguagnolo
@@ -560,3 +561,14 @@
   image_path: assets/images/2026-09-04-sprezzatura.png
   audio_path: assets/audio/2026-09-04-sprezzatura.ogg
   word_clean: sprezzatura
+- word: Sollùchero
+  date: '2026-09-05'
+  description: |
+    Uno stato di estrema dolcezza e contentezza, come quando mangi il tuo gelato
+    preferito e ti senti sciogliere dalla felicità! Andare in sollùchero significa
+    essere così felici che sembra quasi di sciogliersi come cioccolata al sole per
+    la contentezza. Messere Riccardo, spero che questa parola porti gioia al vostro
+    maniero!
+  image_path: assets/images/2026-09-05-solluchero.png
+  audio_path: assets/audio/2026-09-05-solluchero.ogg
+  word_clean: solluchero

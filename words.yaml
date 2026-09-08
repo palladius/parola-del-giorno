@@ -83,13 +83,13 @@
   image_path: assets/images/2026-07-06-ambaradan.png
   audio_path:
   word_clean: ambaradan
-- word: Sollùchhero
+- word: Sollùcchero
   date: '2026-07-07'
   description: Uno stato di gioia e contentezza estrema che fa brillar gli occhi,
     come quando si mangia un gelato gigante!
-  image_path: assets/images/2026-07-07-solluchhero.png
-  audio_path:
-  word_clean: solluchhero
+  image_path: assets/images/2026-07-07-sollucchero.png
+  audio_path: assets/audio/2026-07-07-sollucchero.ogg
+  word_clean: sollucchero
 - word: Zibaldòne
   date: '2026-07-08'
   description: Un miscuglio disordinato di tante cose diverse, come un diario ricolmo
@@ -572,3 +572,11 @@
   image_path: assets/images/2026-09-05-solluchero.png
   audio_path: assets/audio/2026-09-05-solluchero.ogg
   word_clean: solluchero
+- word: Lucubraziòne
+  date: '2026-09-08'
+  description: "Quando qualcuno, come un saggio gufo o un instancabile scienziato,
+    studia o \nlavora con tantissimo impegno nel cuore della notte, mentre tutti gli
+    altri \nfanno la nanna. È una fatica fatta con amore per scoprire cose nuove!\n"
+  image_path: assets/images/2026-09-08-lucubrazione.png
+  audio_path: assets/audio/2026-09-08-lucubrazione.ogg
+  word_clean: lucubrazione

@@ -591,3 +591,15 @@
   image_path: assets/images/2026-09-11-lepido.png
   audio_path: assets/audio/2026-09-11-lepido.ogg
   word_clean: lepido
+- word: Infingàrdo
+  date: '2026-09-12'
+  description: 'Messere Alessandro, Messere Sebastian! Avete mai visto un piccolo
+    cavaliere che, invece di sellare il cavallo, decide di schiacciare un sonnellino
+    tra le nuvole? Quello è un infingàrdo! Qualcuno che ama così tanto il suo cuscino
+    da scappare a gambe levate appena vede un po'' di fatica. È una parola buffa per
+    dire: pigrone!
+
+    '
+  image_path: assets/images/2026-09-12-infingardo.png
+  audio_path: assets/audio/2026-09-12-infingardo.ogg
+  word_clean: infingardo

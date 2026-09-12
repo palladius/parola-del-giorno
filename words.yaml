@@ -603,3 +603,15 @@
   image_path: assets/images/2026-09-12-infingardo.png
   audio_path: assets/audio/2026-09-12-infingardo.ogg
   word_clean: infingardo
+- word: Pataffìo
+  date: '2026-09-13'
+  description: 'Il Pataffìo è un parolone lungo lungo e un po'' pasticciato! È come
+    quando Ale scrive una lettera chilometrica per chiedere mille regali, o quando
+    Sebi fa un disegno pieno di scarabocchi che sembra una pergamena antica. Un Pataffìo
+    è una cosa scritta che non finisce mai e che ci fa un po'' girare la testa, ma
+    in modo divertente!
+
+    '
+  image_path: assets/images/2026-09-13-pataffio.png
+  audio_path: assets/audio/2026-09-13-pataffio.ogg
+  word_clean: pataffio

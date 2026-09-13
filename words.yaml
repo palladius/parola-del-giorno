@@ -615,3 +615,12 @@
   image_path: assets/images/2026-09-13-pataffio.png
   audio_path: assets/audio/2026-09-13-pataffio.ogg
   word_clean: pataffio
+- word: Dilibécolo
+  date: '2026-09-14'
+  description: Un dilibécolo è un giocattolino magico, un piccolo gingillo che serve
+    solo a farci sorridere e a passare il tempo in allegria! È come quel pezzetto
+    di plastica colorata o quel sassolino lucente che Ale e Sebi custodiscono come
+    un tesoro prezioso.
+  word_clean: dilibecolo
+  image_path: assets/images/2026-09-14-dilibecolo.png
+  audio_path: assets/audio/2026-09-14-dilibecolo.ogg

@@ -645,3 +645,11 @@
   word_clean: alambiccarsi
   image_path: assets/images/2026-09-18-alambiccarsi.png
   audio_path: assets/audio/2026-09-18-alambiccarsi.ogg
+- word: Scialacquàre
+  date: '2026-09-20'
+  description: Usare le cose, come soldi o giocattoli, con tale abbondanza e fretta
+    da sprecarne un pochino, come se stessimo lanciando coriandoli al vento per far
+    festa!
+  image_path: assets/images/2026-09-20-scialacquare.png
+  audio_path: assets/audio/2026-09-20-scialacquare.ogg
+  word_clean: scialacquare

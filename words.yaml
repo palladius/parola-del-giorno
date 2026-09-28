@@ -674,3 +674,13 @@
   image_path: assets/images/2026-09-23-pletorico.png
   audio_path: assets/audio/2026-09-23-pletorico.ogg
   word_clean: pletorico
+- word: Pantagruèlico
+  date: '2026-09-28'
+  description: 'Cari Ale e Sebi, un pranzo ''Pantagruèlico'' è una scorpacciata così
+    grande che nemmeno un gigante riuscirebbe a finirla! È come se a tavola ci fossero
+    montagne di lasagne e fiumi di cioccolata!
+
+    '
+  image_path: assets/images/2026-09-28-pantagruelico.png
+  audio_path: assets/audio/2026-09-28-pantagruelico.ogg
+  word_clean: pantagruelico

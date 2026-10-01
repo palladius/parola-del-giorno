@@ -684,3 +684,14 @@
   image_path: assets/images/2026-09-28-pantagruelico.png
   audio_path: assets/audio/2026-09-28-pantagruelico.ogg
   word_clean: pantagruelico
+- word: Trafelàto
+  date: '2026-10-01'
+  description: 'Cari Alessandro e Sebastian! Avete presente quando correte così forte,
+    ma così forte, che arrivate con la lingua fuori e il fiato corto? Ecco, in quel
+    momento siete trafelàti! È la stanchezza di chi ha appena fatto una grande impresa,
+    come scalare una montagna di cuscini o scappare da un drago solleticatore!
+
+    '
+  image_path: assets/images/2026-10-01-trafelato.png
+  audio_path: assets/audio/2026-10-01-trafelato.ogg
+  word_clean: trafelato

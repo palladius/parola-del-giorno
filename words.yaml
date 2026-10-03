@@ -695,3 +695,14 @@
   image_path: assets/images/2026-10-01-trafelato.png
   audio_path: assets/audio/2026-10-01-trafelato.ogg
   word_clean: trafelato
+- word: Burbanzióso
+  date: '2026-10-03'
+  description: 'Cari Alessandro e Sebastian! Avete mai visto qualcuno che cammina
+    tutto impettito, col naso all''insù, credendosi il re di tutto il mondo? Ecco,
+    quello è un burbanzióso! È un po'' buffo perché si dà un sacco di arie, ma ricordatevi
+    che i veri saggi sono gentili e sorridenti!
+
+    '
+  image_path: assets/images/2026-10-03-burbanzioso.png
+  audio_path:
+  word_clean: burbanzioso

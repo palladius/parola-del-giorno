@@ -726,3 +726,14 @@
   word_clean: tergiversare
   image_path: assets/images/2026-10-06-tergiversare.png
   audio_path: assets/audio/2026-10-06-tergiversare.ogg
+- word: Zenzèvero
+  date: '2026-10-08'
+  description: 'Cari Alessandro e Sebastian, oggi vi svelo il segreto del Zenzèvero!
+    È l''antico e nobile nome dello zenzero, quella radice magica che pizzica un po''
+    ma dà un sapore sfolgorante a ogni vivanda. Immaginate una radice che balla il
+    tip-tap sulla vostra lingua! Un vero zenzèvero per palati coraggiosi!
+
+    '
+  image_path: assets/images/2026-10-08-zenzevero.png
+  audio_path: assets/audio/2026-10-08-zenzevero.ogg
+  word_clean: zenzevero

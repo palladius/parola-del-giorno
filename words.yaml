@@ -737,3 +737,11 @@
   image_path: assets/images/2026-10-08-zenzevero.png
   audio_path: assets/audio/2026-10-08-zenzevero.ogg
   word_clean: zenzevero
+- word: Solèrte
+  date: '2026-10-09'
+  description: "Illustre Messere, la parola del giorno è SOLÈRTE! Significa fare le
+    cose con impegno e allegria, proprio come un piccolo folletto operoso che sistema
+    tutto in un batter d'occhio! Pux \U0001F47E\n"
+  image_path: assets/images/2026-10-09-solerte.png
+  audio_path: assets/audio/2026-10-09-solerte.ogg
+  word_clean: solerte

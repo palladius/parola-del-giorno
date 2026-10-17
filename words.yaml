@@ -776,3 +776,18 @@
   image_path: assets/images/2026-10-15-mellifluo.png
   audio_path: assets/audio/2026-10-15-mellifluo.ogg
   word_clean: mellifluo
+- word: Strabocchévole
+  date: '2026-10-16'
+  description: Qualcosa di talmente abbondante che trabocca da tutte le parti, come
+    una cesta di caramelle ricolma fino all'orlo!
+  image_path: assets/images/2026-10-16-strabocchevole.png
+  audio_path: assets/audio/2026-10-16-strabocchevole.ogg
+  word_clean: strabocchevole
+- word: Scapestràto
+  date: '2026-10-17'
+  description: Uno scapestràto è come un piccolo puledro che corre nel fango senza
+    scarpe e con i capelli spettinati! È qualcuno che non sta mai fermo e fa un po'
+    di confusione, ma con un gran sorriso.
+  image_path: assets/images/2026-10-17-scapestrato.png
+  audio_path: assets/audio/2026-10-17-scapestrato.ogg
+  word_clean: scapestrato

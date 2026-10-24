@@ -849,3 +849,11 @@
   image_path: assets/images/2026-10-23-trambusto.png
   audio_path: assets/audio/2026-10-23-trambusto.ogg
   word_clean: trambusto
+- word: Ciangottàre
+  date: '2026-10-24'
+  description: Parlare in modo confuso o infantile, come fanno i bimbi piccoli quando
+    imparano a parlare. È un modo dolcissimo di chiacchierare senza usare le parole
+    dei grandi!
+  image_path: assets/images/2026-10-24-ciangottare.png
+  audio_path: assets/audio/2026-10-24-ciangottare.ogg
+  word_clean: ciangottare

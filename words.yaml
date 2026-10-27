@@ -870,3 +870,11 @@
   image_path: assets/images/2026-10-26-pillacchera.png
   audio_path: assets/audio/2026-10-26-pillacchera.ogg
   word_clean: pillacchera
+- word: Scombussolàre
+  date: '2026-10-27'
+  description: |
+    Mettere in grande disordine o confusione, agitare gli animi o le cose.
+    È come quando un vento birichino entra nella vostra cameretta e fa volare tutti i disegni e i calzini dappertutto, creando un gran pasticcio divertente!
+  image_path: assets/images/2026-10-27-scombussolare.png
+  audio_path: assets/audio/2026-10-27-scombussolare.ogg
+  word_clean: scombussolare

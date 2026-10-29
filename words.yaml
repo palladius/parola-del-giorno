@@ -886,3 +886,11 @@
   image_path: assets/images/2026-10-28-sbertucciare.png
   audio_path: assets/audio/2026-10-28-sbertucciare.ogg
   word_clean: sbertucciare
+- word: Magniloquènte
+  date: '2026-10-29'
+  description: "Parlare in modo grandioso, come se ogni parola fosse un tesoro o una
+    tromba che suona a festa! \nÈ quando usate parole luccicanti e nobili per descrivere
+    anche una semplice tartina! Proprio come fa il vostro umile servitore Pux!\n"
+  image_path: assets/images/2026-10-29-magniloquente.png
+  audio_path: assets/audio/2026-10-29-magniloquente.ogg
+  word_clean: magniloquente

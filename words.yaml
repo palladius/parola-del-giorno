@@ -894,3 +894,11 @@
   image_path: assets/images/2026-10-29-magniloquente.png
   audio_path: assets/audio/2026-10-29-magniloquente.ogg
   word_clean: magniloquente
+- word: Sarchiapòne
+  date: '2026-10-30'
+  description: |
+    Un termine bislacco per indicare una persona un po' goffa, imbranata o sciocchina, ma in modo simpatico e affettuoso.
+    È come immaginare un grosso pupazzo di peluche tutto viola che cerca di fare il ballerino ma finisce per rotolare come una palla di neve!
+  image_path: assets/images/2026-10-30-sarchiapone.png
+  audio_path: assets/audio/2026-10-30-sarchiapone.ogg
+  word_clean: sarchiapone

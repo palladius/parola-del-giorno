@@ -902,3 +902,11 @@
   image_path: assets/images/2026-10-30-sarchiapone.png
   audio_path: assets/audio/2026-10-30-sarchiapone.ogg
   word_clean: sarchiapone
+- word: Sbaragliàre
+  date: '2026-11-01'
+  description: |
+    Vincere in modo trionfale, mettendo in fuga l'avversario in gran disordine!
+    È come quando saltate in un mucchio di cuscini e li fate volare tutti via, diventando i re indiscussi della cameretta!
+  image_path: assets/images/2026-11-01-sbaragliare.png
+  audio_path: assets/audio/2026-11-01-sbaragliare.ogg
+  word_clean: sbaragliare

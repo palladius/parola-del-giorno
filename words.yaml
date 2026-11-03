@@ -918,3 +918,11 @@
   image_path: assets/images/2026-11-02-cianciugliare.png
   audio_path: assets/audio/2026-11-02-cianciugliare.ogg
   word_clean: cianciugliare
+- word: Bagolàre
+  date: '2026-11-03'
+  description: |
+    Andare in giro a zonzo, senza una meta precisa, proprio come un piccolo mostriciattolo viola che curioso esplora un mercato medievale.
+    Si bagola per il piacere di vedere cose nuove e fare due chiacchiere in allegria. È il modo migliore per scoprire i segreti della dimora e del mondo intero!
+  image_path: assets/images/2026-11-03-bagolare.png
+  audio_path: assets/audio/2026-11-03-bagolare.ogg
+  word_clean: bagolare

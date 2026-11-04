@@ -926,3 +926,12 @@
   image_path: assets/images/2026-11-03-bagolare.png
   audio_path: assets/audio/2026-11-03-bagolare.ogg
   word_clean: bagolare
+- word: Guazzabùglio
+  date: '2026-11-04'
+  description: |
+    Un Guazzabùglio è un gran pasticcio, una miscellanea di cose disparate tutte aggrovigliate insieme.
+    Immaginate la vostra cesta dei giochi ove regna il caos primordiale: ecco, quello è un Guazzabùglio nobile e festoso!
+    Non temete il disordine, poiché è nel Guazzabùglio che nascono le avventure più bislacche.
+  image_path: assets/images/2026-11-04-guazzabuglio.png
+  audio_path: assets/audio/2026-11-04-guazzabuglio.ogg
+  word_clean: guazzabuglio

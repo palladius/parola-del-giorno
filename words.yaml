@@ -935,3 +935,12 @@
   image_path: assets/images/2026-11-04-guazzabuglio.png
   audio_path: assets/audio/2026-11-04-guazzabuglio.ogg
   word_clean: guazzabuglio
+- word: Zurlàre
+  date: '2026-11-05'
+  description: |
+    Zurlare significa giocare e saltellare con allegria, proprio come fanno i folletti nei boschi quando nessuno li guarda!
+    È un modo buffo per dire "fare festa" e divertirsi un mondo in compagnia degli amici.
+    Zurlate dunque, cari Ale e Sebi, poiché la vita è un gran carosello di gioia!
+  image_path: assets/images/2026-11-05-zurlare.png
+  audio_path: assets/audio/2026-11-05-zurlare.ogg
+  word_clean: zurlare

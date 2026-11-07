@@ -944,3 +944,20 @@
   image_path: assets/images/2026-11-05-zurlare.png
   audio_path: assets/audio/2026-11-05-zurlare.ogg
   word_clean: zurlare
+- word: Sviolinàta
+  date: '2026-11-06'
+  description: |
+    Una sviolinata è un complimento molto, molto grande e sperticato, proprio come se qualcuno suonasse il violino solo per voi!
+    È un modo gentile ma un po' buffo per dire cose bellissime a qualcuno che ammiriamo tanto.
+  image_path: assets/images/2026-11-06-sviolinata.png
+  audio_path: assets/audio/2026-11-06-sviolinata.ogg
+  word_clean: sviolinata
+- word: Sciorinàre
+  date: '2026-11-07'
+  description: "Illustre Messere, la parola del dì è SCIORINÀRE! \nImmaginate di stendere
+    al sole tanti panni colorati o di mettere in bella mostra tutti i vostri giocattoli
+    preferiti per farli vedere agli amici. \nEcco, sciorinàre significa proprio mostrare
+    con orgoglio e abbondanza, come un cavaliere che srotola il suo vessillo al vento!\n"
+  image_path: assets/images/2026-11-07-sciorinare.png
+  audio_path: assets/audio/2026-11-07-sciorinare.ogg
+  word_clean: sciorinare

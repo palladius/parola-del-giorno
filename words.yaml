@@ -902,6 +902,18 @@
   image_path: assets/images/2026-10-30-sarchiapone.png
   audio_path: assets/audio/2026-10-30-sarchiapone.ogg
   word_clean: sarchiapone
+- word: Gibigìana
+  date: '2026-10-31'
+  description: 'La **gibigìana** è quel dispettoso riflesso di luce che rimbalza su
+    uno specchio o sulla superficie dell''acqua e vi finisce dritto negli occhi, costringendovi
+    a fare le smorfie! È come se il sole volesse giocare a nascondino con voi usando
+    un piccolo specchietto magico per farvi il solletico alle pupille. Che ghiribìzzo
+    luminoso, vero?
+
+    '
+  image_path: assets/images/2026-10-31-gibigiana.png
+  audio_path: assets/audio/2026-10-31-gibigiana.ogg
+  word_clean: gibigiana
 - word: Sbaragliàre
   date: '2026-11-01'
   description: |

@@ -990,3 +990,10 @@
   image_path: assets/images/2026-11-09-zufolare.png
   audio_path: assets/audio/2026-11-09-zufolare.ogg
   word_clean: zufolare
+- word: Pigolàre
+  date: '2026-11-10'
+  description: Cinguettare come un pulcino, oppure chiedere qualcosa con una vocina
+    sottile e insistente, proprio come un piccolo furbetto che vuole un biscotto!
+  image_path: assets/images/2026-11-10-pigolare.png
+  audio_path: assets/audio/2026-11-10-pigolare.ogg
+  word_clean: pigolare

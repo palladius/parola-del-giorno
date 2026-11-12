@@ -1008,3 +1008,11 @@
   image_path: assets/images/2026-11-11-zaccarella.png
   audio_path: assets/audio/2026-11-11-zaccarella.ogg
   word_clean: zaccarella
+- word: Fanfalùcca
+  date: '2026-11-12'
+  description: Una fanfalùcca è una cosuccia da nulla, una bugia piccina piccina o
+    una sciocchezza senza peso, proprio come un fiocchetto di neve che svanisce appena
+    lo tocchi. Non date retta alle fanfalùcche, ma godetevi la loro leggerezza!
+  image_path: assets/images/2026-11-12-fanfalucca.png
+  audio_path: assets/audio/2026-11-12-fanfalucca.ogg
+  word_clean: fanfalucca

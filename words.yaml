@@ -1016,3 +1016,13 @@
   image_path: assets/images/2026-11-12-fanfalucca.png
   audio_path: assets/audio/2026-11-12-fanfalucca.ogg
   word_clean: fanfalucca
+- word: Arzigògolo
+  date: '2026-11-13'
+  description: Un arzigògolo è un pensiero tutto intrecciato, un ragionamento lungo
+    e complicato fatto per una cosa semplice. Immaginate di voler spiegare perché
+    volete un biscotto facendo un discorso che parla di draghi, castelli e stelle...
+    ecco, quello è un arzigògolo! Un modo buffo per dire che stiamo facendo un giro
+    lunghissimo con le parole.
+  image_path: assets/images/2026-11-13-arzigogolo.png
+  audio_path: assets/audio/2026-11-13-arzigogolo.ogg
+  word_clean: arzigogolo

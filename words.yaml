@@ -1059,3 +1059,10 @@
   image_path: assets/images/2026-11-16-strabiliare.png
   audio_path: assets/audio/2026-11-16-strabiliare.ogg
   word_clean: strabiliare
+- word: Almanaccàre
+  date: '2026-11-17'
+  description: Pensare intensamente, fare piani complicati, scervellarsi per inventare
+    qualcosa di incredibile!
+  image_path: assets/images/2026-11-17-almanaccare.png
+  audio_path: assets/audio/2026-11-17-almanaccare.ogg
+  word_clean: almanaccare
